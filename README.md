@@ -1,7 +1,7 @@
-![Web Developer and Software Engineer  ](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/268611483_108582445031573_1314815130372166053_n.jpg?stp=dst-jpg_p720x720&_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_ohc=8UsBwzvI59IAX8wruDa&_nc_ht=scontent.fdac24-1.fna&oh=00_AT9aNQ-XP076P_fpe6Yw5dC0_RujHR5c75sryy_MXo3NBQ&oe=62183875)
+![Web Developer and Software Engineer  ](https://blog.devmountain.com/hs-fs/hubfs/Imported_Blog_Media/WebDev-vs-SoftwareDev-Blog-1a-1.jpg?width=600&name=WebDev-vs-SoftwareDev-Blog-1a-1.jpg)
 
 ## Hi there 👋, I'm Nahid Hasan
-#### Web Developer and Software Engineer  
+### Web Developer and Software Engineer  
 
 
 To work in an organization with a professional work driven environment where I can utilize and apply my knowledge, intellectual capabilities and management, communicating skills which would enable me as a fresh graduate to grow while fulfilling organizational goals as well as improving myself continuously.
