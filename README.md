@@ -1,6 +1,6 @@
-![Web Developer and Software Engineer  ](https://blog.devmountain.com/hs-fs/hubfs/Imported_Blog_Media/WebDev-vs-SoftwareDev-Blog-1a-1.jpg?width=600&name=WebDev-vs-SoftwareDev-Blog-1a-1.jpg)
+![Web Developer and Software Engineer  ]
 
-## Hi there 👋, I'm Nahid Hasan
+#I'm Nahid Hasan
 ### Web Developer and Software Engineer  
 
 
