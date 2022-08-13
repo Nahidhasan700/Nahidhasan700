@@ -4,8 +4,6 @@
 ### MERN Stack-Developer 
 
 
-To work in an organization with a professional work driven environment where I can utilize and apply my knowledge, intellectual capabilities and management, communicating skills which would enable me as a fresh graduate to grow while fulfilling organizational goals as well as improving myself continuously.
-
 Skills: REACT / JS / HTML / CSS / Node / MongoDB
 
 - 🔭 I’m currently looking jobs
@@ -15,7 +13,7 @@ Skills: REACT / JS / HTML / CSS / Node / MongoDB
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nahidhasan700)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nahid-hasan-50a2a0190/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nahidhsan__7/)  
+
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
