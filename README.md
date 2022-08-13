@@ -16,12 +16,3 @@ Skills: REACT / JS / HTML / CSS / Node / MongoDB
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahidhasan700&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nahidhasan700)  
-
-![GitHub metrics](https://metrics.lecoq.io/Nahidhasan700)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nahidhasan700)  
-
-![Profile views](https://gpvc.arturio.dev/Nahidhasan700)  
