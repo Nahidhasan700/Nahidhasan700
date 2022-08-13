@@ -1,17 +1,18 @@
 
 
 # Hi There, I'm Nahid Hasan
-### Web Developer and Software Engineer  
+### MERN Stack-Developer 
 
 
 To work in an organization with a professional work driven environment where I can utilize and apply my knowledge, intellectual capabilities and management, communicating skills which would enable me as a fresh graduate to grow while fulfilling organizational goals as well as improving myself continuously.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / PHP/ PYTHON / C / C++
+Skills: REACT / JS / HTML / CSS / Node / MongoDB
 
-- 🔭 I’m currently working on Feni University 
-- 🌱 I’m currently learning VUE JS / REACT / PHP/ LERAVEL /JavaScript 
+- 🔭 I’m currently looking jobs
+- 🌱 I’m currently learning SQA Engineer / python / Selenium  
 - 👯 I’m looking to collaborate on githubs 
 - 💬 Ask me about Web Development 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nahidhasan700)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nahid-hasan-50a2a0190/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nahidhsan__7/)  
