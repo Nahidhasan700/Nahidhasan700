@@ -6,7 +6,7 @@
 Portfolio : https://roaring-croquembouche-70743f.netlify.app/
 
 
-Skills: REACT / JS / HTML / CSS / Node / MongoDB
+Skills: REACT / JavaScript / HTML / CSS / Node / ES6 / MongoDB / Express js / Bootstrap / Git
 
 - 🔭 I’m currently looking jobs
 - 🌱 I’m currently learning SQA Engineer / python / Selenium  
