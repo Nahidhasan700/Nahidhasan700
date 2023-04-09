@@ -6,7 +6,7 @@
 Portfolio : https://nahid-hasan-porfolio-nh7.netlify.app
 
 
-Skills: REACT / JavaScript / HTML / CSS / Node / ES6 / MongoDB / Express js / Bootstrap / Git
+Skills: ReactJS / JavaScript / HTML / CSS / Node / ES6 / MongoDB / Express js / Bootstrap / Git / Firebase
 
 - 🔭 I’m currently looking jobs
 - 🌱 I’m currently learning SQA Engineer / python / Selenium  
